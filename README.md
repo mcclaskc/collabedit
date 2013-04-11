@@ -1,11 +1,18 @@
 collabedit
 ==========
 
-repo to store stuff I do on collabedit.com
+repo to store stuff I do on collabedit
 
-latest:
+current doc: http://collabedit.com/wc8df
+
 
 ```ruby
+######################
+#Clasky's Code Corner#
+######################
+
+#ruby 
+
 class Clasky
     
     @@awesome = true
@@ -25,4 +32,6 @@ class Clasky
     end
     
 end
+
+#/ruby
 ```
